@@ -37,4 +37,4 @@ Example lines for the text file:
 
 Two example text files have been included (using the text from the instructions of this assignment).
 
-Please email [Hansen Li](mailto:hansenxli@gmail.com?subject=[AT&T TDP Assessment]) for any questions
+Please email [Hansen Li](mailto:hansenxli@gmail.com) for any questions
